@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Define threshold values
-CPU_THRESHOLD=5
-MEMORY_THRESHOLD=5
-DISK_THRESHOLD=3
+CPU_THRESHOLD=80
+MEMORY_THRESHOLD=80
+DISK_THRESHOLD=30
 
 
 LOG_FILE="$HOME/system_health.log"
