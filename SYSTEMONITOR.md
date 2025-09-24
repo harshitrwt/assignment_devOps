@@ -1,6 +1,6 @@
 # System Healh Monitoring Script
 
-This is a **Bash script** to monitor system health metrics — CPU usage, memory usage, disk usage, and the top 5 CPU-consuming processes. If the usage exceeds defined thresholds, it logs an alert to the terminal.
+This is a **Bash script** to monitor system health metrics, CPU usage, memory usage, disk usage, and the top 5 CPU-consuming processes. If the usage exceeds defined thresholds, it logs an alert to the terminal.
 
 ---
 
